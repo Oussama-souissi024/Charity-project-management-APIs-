@@ -1,0 +1,51 @@
+C:\Users\admin\source\repos\CityProjects\CityProjects.Data\bin\Debug\net8.0\CityProjects.Data.deps.json
+C:\Users\admin\source\repos\CityProjects\CityProjects.Data\bin\Debug\net8.0\CityProjects.Data.runtimeconfig.json
+C:\Users\admin\source\repos\CityProjects\CityProjects.Data\bin\Debug\net8.0\CityProjects.Data.dll
+C:\Users\admin\source\repos\CityProjects\CityProjects.Data\bin\Debug\net8.0\CityProjects.Data.pdb
+C:\Users\admin\source\repos\CityProjects\CityProjects.Data\bin\Debug\net8.0\CityProjects.Core.dll
+C:\Users\admin\source\repos\CityProjects\CityProjects.Data\bin\Debug\net8.0\CityProjects.Core.pdb
+C:\Users\admin\source\repos\CityProjects\CityProjects.Data\obj\Debug\net8.0\CityProjects.Data.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CityProjects\CityProjects.Data\obj\Debug\net8.0\CityProjects.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CityProjects\CityProjects.Data\obj\Debug\net8.0\CityProjects.Data.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CityProjects\CityProjects.Data\obj\Debug\net8.0\CityProjects.Data.AssemblyInfo.cs
+C:\Users\admin\source\repos\CityProjects\CityProjects.Data\obj\Debug\net8.0\CityProjects.Data.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CityProjects\CityProjects.Data\obj\Debug\net8.0\CityProj.0CE90575.Up2Date
+C:\Users\admin\source\repos\CityProjects\CityProjects.Data\obj\Debug\net8.0\CityProjects.Data.dll
+C:\Users\admin\source\repos\CityProjects\CityProjects.Data\obj\Debug\net8.0\refint\CityProjects.Data.dll
+C:\Users\admin\source\repos\CityProjects\CityProjects.Data\obj\Debug\net8.0\CityProjects.Data.pdb
+C:\Users\admin\source\repos\CityProjects\CityProjects.Data\obj\Debug\net8.0\CityProjects.Data.genruntimeconfig.cache
+C:\Users\admin\source\repos\CityProjects\CityProjects.Data\obj\Debug\net8.0\ref\CityProjects.Data.dll
+C:\Users\admin\source\repos\CityProjects2\CityProjects.Data\bin\Debug\net8.0\CityProjects.Data.deps.json
+C:\Users\admin\source\repos\CityProjects2\CityProjects.Data\bin\Debug\net8.0\CityProjects.Data.runtimeconfig.json
+C:\Users\admin\source\repos\CityProjects2\CityProjects.Data\bin\Debug\net8.0\CityProjects.Data.dll
+C:\Users\admin\source\repos\CityProjects2\CityProjects.Data\bin\Debug\net8.0\CityProjects.Data.pdb
+C:\Users\admin\source\repos\CityProjects2\CityProjects.Data\bin\Debug\net8.0\CityProjects.Core.dll
+C:\Users\admin\source\repos\CityProjects2\CityProjects.Data\bin\Debug\net8.0\CityProjects.Core.pdb
+C:\Users\admin\source\repos\CityProjects2\CityProjects.Data\obj\Debug\net8.0\CityProjects.Data.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CityProjects2\CityProjects.Data\obj\Debug\net8.0\CityProjects.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CityProjects2\CityProjects.Data\obj\Debug\net8.0\CityProjects.Data.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CityProjects2\CityProjects.Data\obj\Debug\net8.0\CityProjects.Data.AssemblyInfo.cs
+C:\Users\admin\source\repos\CityProjects2\CityProjects.Data\obj\Debug\net8.0\CityProjects.Data.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CityProjects2\CityProjects.Data\obj\Debug\net8.0\CityProj.0CE90575.Up2Date
+C:\Users\admin\source\repos\CityProjects2\CityProjects.Data\obj\Debug\net8.0\CityProjects.Data.dll
+C:\Users\admin\source\repos\CityProjects2\CityProjects.Data\obj\Debug\net8.0\refint\CityProjects.Data.dll
+C:\Users\admin\source\repos\CityProjects2\CityProjects.Data\obj\Debug\net8.0\CityProjects.Data.pdb
+C:\Users\admin\source\repos\CityProjects2\CityProjects.Data\obj\Debug\net8.0\CityProjects.Data.genruntimeconfig.cache
+C:\Users\admin\source\repos\CityProjects2\CityProjects.Data\obj\Debug\net8.0\ref\CityProjects.Data.dll
+C:\Users\admin\source\repos\CityProjects2 mise a jour delete approval\CityProjects2\CityProjects.Data\obj\Debug\net8.0\CityProjects.Data.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CityProjects2 mise a jour delete approval\CityProjects2\CityProjects.Data\obj\Debug\net8.0\CityProjects.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CityProjects2 mise a jour delete approval\CityProjects2\CityProjects.Data\obj\Debug\net8.0\CityProjects.Data.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CityProjects2 mise a jour delete approval\CityProjects2\CityProjects.Data\obj\Debug\net8.0\CityProjects.Data.AssemblyInfo.cs
+C:\Users\admin\source\repos\CityProjects2 mise a jour delete approval\CityProjects2\CityProjects.Data\obj\Debug\net8.0\CityProjects.Data.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CityProjects2 mise a jour delete approval\CityProjects2\CityProjects.Data\obj\Debug\net8.0\CityProjects.Data.dll
+C:\Users\admin\source\repos\CityProjects2 mise a jour delete approval\CityProjects2\CityProjects.Data\obj\Debug\net8.0\refint\CityProjects.Data.dll
+C:\Users\admin\source\repos\CityProjects2 mise a jour delete approval\CityProjects2\CityProjects.Data\obj\Debug\net8.0\CityProjects.Data.pdb
+C:\Users\admin\source\repos\CityProjects2 mise a jour delete approval\CityProjects2\CityProjects.Data\bin\Debug\net8.0\CityProjects.Data.deps.json
+C:\Users\admin\source\repos\CityProjects2 mise a jour delete approval\CityProjects2\CityProjects.Data\bin\Debug\net8.0\CityProjects.Data.runtimeconfig.json
+C:\Users\admin\source\repos\CityProjects2 mise a jour delete approval\CityProjects2\CityProjects.Data\bin\Debug\net8.0\CityProjects.Data.dll
+C:\Users\admin\source\repos\CityProjects2 mise a jour delete approval\CityProjects2\CityProjects.Data\bin\Debug\net8.0\CityProjects.Data.pdb
+C:\Users\admin\source\repos\CityProjects2 mise a jour delete approval\CityProjects2\CityProjects.Data\bin\Debug\net8.0\CityProjects.Core.dll
+C:\Users\admin\source\repos\CityProjects2 mise a jour delete approval\CityProjects2\CityProjects.Data\bin\Debug\net8.0\CityProjects.Core.pdb
+C:\Users\admin\source\repos\CityProjects2 mise a jour delete approval\CityProjects2\CityProjects.Data\obj\Debug\net8.0\CityProj.0CE90575.Up2Date
+C:\Users\admin\source\repos\CityProjects2 mise a jour delete approval\CityProjects2\CityProjects.Data\obj\Debug\net8.0\CityProjects.Data.genruntimeconfig.cache
+C:\Users\admin\source\repos\CityProjects2 mise a jour delete approval\CityProjects2\CityProjects.Data\obj\Debug\net8.0\ref\CityProjects.Data.dll
